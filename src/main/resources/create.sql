@@ -1,0 +1,1 @@
+CREATE TABLE emp(empId int, empName varchar(20), phone varchar(20), email varchar(30), salary float, desig varchar(20), primary key(empId))
